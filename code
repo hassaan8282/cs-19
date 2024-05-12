@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// Structure to represent a post
+
 struct Post {
     string username;
     string content;
